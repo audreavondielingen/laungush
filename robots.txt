@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wohleicohs.coachpainting.co.uk/sitemap.xml
